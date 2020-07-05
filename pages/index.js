@@ -166,7 +166,7 @@ export default class Index extends Component {
                         Challenge by
                         <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
                                 Coded by
-                        <a href="#">Norberto Ignacio</a>.
+                        <a href="#">Gerard Gueco</a>.
                     </p>
 
 
